@@ -30,4 +30,5 @@ vue ui
 
 * Use vue ui to generate an app
 * Search / Install plugins
+  * Search in the Vue UI
   * Search npm: https://www.npmjs.com/search?q=vue-cli-plugin
