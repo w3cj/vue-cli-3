@@ -1,6 +1,6 @@
 ## Vue CLI 3
 
-* Install Vue CLI 3
+* Install [Vue CLI 3](https://cli.vuejs.org/guide/)
 
 ```sh
 npm install -g @vue/cli
