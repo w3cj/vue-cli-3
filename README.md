@@ -28,5 +28,6 @@ vue init my-awesome-app-v2
 vue ui
 ```
 
-* Use vue ui to configure an app
+* Use vue ui to generate an app
 * Search / Install plugins
+  * Search npm: https://www.npmjs.com/search?q=vue-cli-plugin
